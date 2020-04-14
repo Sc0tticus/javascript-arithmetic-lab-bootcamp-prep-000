@@ -23,3 +23,9 @@ function decrement(n){
   n--
   return n
 }
+
+function makeInt(string){
+  return parseInt(string, 10)
+}
+
+
